@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" bg="blue";
-}/>
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -26,16 +25,15 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Handlebars](https://handlebarsjs.com/)
 
 ## 💻 Projeto
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz.
 
-Esse projeto foi desenvolvido durante a trilha Omni, na terceira edição da NLW by Rocketseat.
+Esse projeto foi desenvolvido durante a trilha Discovery, na terceira edição da NLW by Rocketseat.
 
 ## :memo: Licença
 
@@ -43,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💙 by Joaopfs 🖱️ [Acesse meu profile!](bit.ly/joaopfs)
+Feito com 💙 by João Santos 🖱️ [Acesse meu profile!](bit.ly/joaopfs)
